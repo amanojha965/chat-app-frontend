@@ -21,7 +21,7 @@ const SettingsPage = () => {
     return (
         <div
             className="h-screen container mx-auto px-4 pt-20 max-w-5xl"
-            data-theme={theme} // 👈 IMPORTANT
+            data-theme={theme}
         >
             <div className="space-y-6">
                 <div className="flex flex-col gap-1">
